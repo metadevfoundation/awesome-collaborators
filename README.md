@@ -4,3 +4,7 @@ A (very) curated list of awesome chats for people who need awesome collaborators
 
 
 [![Join the chat at https://gitter.im/metadevfoundation/awesome-collaborators](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/metadevfoundation/awesome-collaborators?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/metadevfoundation/awesome-collaborators/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
